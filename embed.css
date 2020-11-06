@@ -1,0 +1,86 @@
+body{
+    font-size: 15px;
+}
+#first{
+    float: left;
+}
+#logo{
+    height: 20px;
+    width: 20px;
+    margin-left: 0%;
+}
+.search{
+    display: flex;
+}
+#sect-1{
+    margin-top: 30px;
+}
+input{
+    width: 500px;
+    height: 30px;
+}
+#search-1{
+    width: 60px;
+    height: 36px;
+}
+#search{
+    width: 10px;
+    height: 10px;
+}
+#bell{
+    display: flex;
+    margin-right: 0%;
+}
+#sign{
+    background-color: blue;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+}
+#black{
+    height: 30px;
+    width: 30px;
+}
+.input{
+    margin-left: 250px;
+}
+.subscribe{
+    display: flex;
+}
+#subscribe{
+    background-color: red;
+    margin-left: 700px;
+    border-radius: 10px;
+
+}
+#second{
+    float: right;
+}
+#next{
+    display: flex;
+    margin-top: 30px;
+}
+header{
+    margin-right: 190px;
+}
+.auto{
+    width: 30px;
+    height: 30px;
+    color: blue;
+}
+#png{
+    display: flex;
+    margin-right: 30px;
+}
+.extra{
+    height:120px;
+    width: 80px;
+}
+#img{
+    height: 200px;
+    width: 380px;
+}
+#thumb{
+    display: block;
+}
